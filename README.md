@@ -34,12 +34,16 @@
 5. 分别训练 [案例分析](docs/04-case-analysis.md) 与 [论文](docs/05-essay-guide.md)，不要等综合知识学完才开始。
 6. 冲刺阶段使用 [速查表](docs/06-architecture-quick-reference.md) 和 [考前清单](docs/07-exam-day-checklist.md)。
 7. 在 [进度表](tracker/progress.csv) 中记录每周完成度、正确率和论文产出。
+8. 用 [2023—2026 真题主题与变化分析](docs/08-past-paper-trend-analysis.md) 调整复习权重；需要追溯证据时查看 [真题数据源使用指南](docs/09-past-paper-source-guide.md) 和 `data/` 下的 CSV。
 
 ## 仓库结构
 
 ```text
 .
 ├── README.md
+├── data/
+│   ├── past-paper-source-catalog.csv
+│   └── past-paper-topic-index.csv
 ├── docs/
 │   ├── 00-2026-guangdong-exam.md
 │   ├── 01-official-resources.md
@@ -49,6 +53,8 @@
 │   ├── 05-essay-guide.md
 │   ├── 06-architecture-quick-reference.md
 │   ├── 07-exam-day-checklist.md
+│   ├── 08-past-paper-trend-analysis.md
+│   ├── 09-past-paper-source-guide.md
 │   └── references.md
 ├── templates/
 │   ├── case-answer-sheet.md
@@ -61,7 +67,7 @@
 
 - **官方优先**：考试日期、批次、科目和合格标准以官方通知为准。
 - **理解优先**：架构题重在“场景—质量属性—决策—权衡—验证”，不以背术语代替分析。
-- **真题闭环**：只通过正版图书或合法渠道获取试题；仓库记录错因和方法，不转载受版权保护的整套试题。
+- **真题闭环**：完整旧题优先使用正版官方解析书；近年回忆题只入库来源、主题、可信度和错因，不转载受版权保护的整套试题。
 - **项目真实**：论文素材来自自己真实参与或可如实说明的项目，避免万能模板和虚构数据。
 
 ## 官方入口
