@@ -1,0 +1,15 @@
+week,date_range,focus,planned_hours,actual_hours,choice_accuracy,cases_completed,essay_outlines,essays_completed,top_weakness,next_action,status
+W0,2026-07-22/2026-07-26,摸底与建档,,,,,,,,,not_started
+W1,2026-07-27/2026-08-02,组成原理/操作系统/网络,,,,,,,,,not_started
+W2,2026-08-03/2026-08-09,数据库与数据架构,,,,,,,,,not_started
+W3,2026-08-10/2026-08-16,软件工程/需求/UML,,,,,,,,,not_started
+W4,2026-08-17/2026-08-23,架构基础/风格/质量属性/报名,,,,,,,,,not_started
+W5,2026-08-24/2026-08-30,架构评估,,,,,,,,,not_started
+W6,2026-08-31/2026-09-06,分布式系统与中间件,,,,,,,,,not_started
+W7,2026-09-07/2026-09-13,微服务/云原生/架构演化,,,,,,,,,not_started
+W8,2026-09-14/2026-09-20,安全/可靠性/容灾,,,,,,,,,not_started
+W9,2026-09-21/2026-09-27,产品线/领域/法规标准,,,,,,,,,not_started
+W10,2026-09-28/2026-10-04,真题闭环一,,,,,,,,,not_started
+W11,2026-10-05/2026-10-11,真题闭环二,,,,,,,,,not_started
+W12,2026-10-12/2026-10-18,全真模拟,,,,,,,,,not_started
+Final,2026-10-19/2026-10-23,准考证与轻复习,,,,,,,,,not_started
