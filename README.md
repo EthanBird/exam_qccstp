@@ -35,6 +35,8 @@
 6. 冲刺阶段使用 [速查表](docs/06-architecture-quick-reference.md) 和 [考前清单](docs/07-exam-day-checklist.md)。
 7. 在 [进度表](tracker/progress.csv) 中记录每周完成度、正确率和论文产出。
 8. 用 [2023—2026 真题主题与变化分析](docs/08-past-paper-trend-analysis.md) 调整复习权重；需要追溯证据时查看 [真题数据源使用指南](docs/09-past-paper-source-guide.md) 和 `data/` 下的 CSV。
+9. 进入 [可直接浏览的题库](question-bank/README.md)：当前包含 150 道综合知识题、13 道案例和 20 个论文方向，均有答案或评分参考。
+10. GitHub 上其他真题库的规模、许可证和复用结论见 [GitHub 题库审查](docs/10-github-question-bank-review.md) 与 [来源清单](question-bank/github-source-catalog.csv)。
 
 ## 仓库结构
 
@@ -55,7 +57,21 @@
 │   ├── 07-exam-day-checklist.md
 │   ├── 08-past-paper-trend-analysis.md
 │   ├── 09-past-paper-source-guide.md
+│   ├── 10-github-question-bank-review.md
 │   └── references.md
+├── question-bank/
+│   ├── README.md
+│   ├── github-source-catalog.csv
+│   ├── reconstructed/
+│   │   ├── general-knowledge.md
+│   │   ├── case-analysis.md
+│   │   └── essay-topics.md
+│   └── open-source/
+│       └── awesome-ruankao-mock-1/
+│           ├── 综合知识_题目.md / 综合知识_答案.md
+│           ├── 案例分析_题目.md / 案例分析_答案.md
+│           ├── 论文_题目.md / 论文_答案.md
+│           └── ATTRIBUTION.md / LICENSE.md
 ├── templates/
 │   ├── case-answer-sheet.md
 │   └── essay-outline.md
@@ -67,7 +83,7 @@
 
 - **官方优先**：考试日期、批次、科目和合格标准以官方通知为准。
 - **理解优先**：架构题重在“场景—质量属性—决策—权衡—验证”，不以背术语代替分析。
-- **真题闭环**：完整旧题优先使用正版官方解析书；近年回忆题只入库来源、主题、可信度和错因，不转载受版权保护的整套试题。
+- **真题闭环**：完整旧题优先使用正版官方解析书；近年回忆主题通过原创重构题练习。只有明确开放授权的原创模拟题才镜像正文，其余只保存来源、主题和版权判断。
 - **项目真实**：论文素材来自自己真实参与或可如实说明的项目，避免万能模板和虚构数据。
 
 ## 官方入口
@@ -79,4 +95,4 @@
 
 ## 版权说明
 
-本仓库只保存原创整理、公开政策链接、书目信息和个人学习模板，不收录盗版教材、未经授权的扫描件或整套试题。引用外部资料时请遵守原网站和出版物的版权声明。
+本仓库主要保存原创整理、公开政策链接、书目信息和个人学习模板，不收录盗版教材、未经授权的扫描件或整套真题。`question-bank/open-source/` 下明确标注的原创模拟题按其子目录许可证共享；其他内容除另有说明外不改变原权利归属。

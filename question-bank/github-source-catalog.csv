@@ -1,0 +1,13 @@
+repo,url,content_summary,reported_scale,license_or_notice,reuse_decision,pinned_revision,reviewed_at,notes
+wujiaming88/awesome-ruankao,https://github.com/wujiaming88/awesome-ruankao,真题索引与原创模拟卷,"原创模拟5套：375道选择、25道案例、20个论文方向",CC BY-SA 4.0；真题版权另归原出题方,仅镜像原创模拟卷1并保留署名,16093de843f618c7c35af3e83b47644b5fae2c6f,2026-07-22,本仓库未复制其中历年真题正文
+Zhang-986/ruankao-architect-practice,https://github.com/Zhang-986/ruankao-architect-practice,静态在线练习站,"1822道选择、78道案例、60道论文",MIT仅明确覆盖软件；NOTICE说明真题版权归权利方,仅链接不复制题目,51217a,2026-07-22,在线浏览入口见仓库README
+fukai000/ruankao-architecture,https://github.com/fukai000/ruankao-architecture,可离线使用的题库应用,规模与Zhang-986版本相近,MIT主要覆盖代码；题目授权边界不清,仅链接不复制题目,,2026-07-22,属于上述练习站的衍生版本
+cycleuser/ruankao-architect-practice,https://github.com/cycleuser/ruankao-architect-practice,静态练习站副本,与Zhang-986版本高度重复,未见对题目正文的独立授权,去重后不再收录正文,,2026-07-22,避免把同一数据源误算成多个独立来源
+YoungHong1992/ruankao-senior-architecture-designer,https://github.com/YoungHong1992/ruankao-senior-architecture-designer,教程OCR与历年试题整理,"约36套考试",CONTENT_POLICY明确第三方内容未获授权,仅链接不复制,,2026-07-22,MIT仅覆盖脚本与工作流
+pianpian315/ruankao-architect-notes,https://github.com/pianpian315/ruankao-architect-notes,原创备考笔记与知识整理,4本手册,CC BY-NC-SA 4.0；第三方引文权利另计,可引用明确原创笔记但本次不镜像真题,,2026-07-22,商业使用需额外注意NC限制
+xxlllq/system_architect,https://github.com/xxlllq/system_architect,教材与备考资料集合,含多份PDF和教程,未发现覆盖资料正文的许可证,仅链接且不推荐复制,,2026-07-22,可能包含受版权保护出版物
+Fxk2020/SoftExam-SystemArchitect,https://github.com/Fxk2020/SoftExam-SystemArchitect,个人备考经验与外部题库入口,经验型资料,未发现许可证,仅链接,,2026-07-22,适合参考备考路径而非作为可镜像题库
+lisahust/FDExam_Note,https://github.com/lisahust/FDExam_Note,个人复习笔记,笔记型资料,未发现许可证,仅链接,,2026-07-22,无许可证不等于可自由转载
+mewcoder/ruankao-system-architect,https://github.com/mewcoder/ruankao-system-architect,零散架构师笔记,小型笔记库,未发现许可证,仅链接,,2026-07-22,未发现可独立镜像的完整题库
+studeyang/ruankao,https://github.com/studeyang/ruankao,公众号或网盘资源入口,外链集合,未发现覆盖外链文件的许可证,只保留来源线索,,2026-07-22,外链可用性与版权状态需逐项核验
+xxlllq/ruankao_exam,https://github.com/xxlllq/ruankao_exam,软考资料集合,混合资料,未发现明确许可证,不复制,,2026-07-22,可能含商业或第三方资料
